@@ -1,0 +1,24 @@
+.signup input{
+    margin: 10px;
+}
+form input{
+    margin-bottom: 10px;
+    border-color: #6610f2;
+
+}
+#fiel label{
+    color: #17a2b8;
+    size: 1.5em;
+}
+.form label{
+    color: #6610f2;
+    size: 1.5em;
+
+}
+.centering, legend {
+    text-align: center;
+}
+fieldset #legen {
+    text-align: left;
+    size: 1.5em;
+}

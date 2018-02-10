@@ -1,0 +1,10 @@
+
+{"bookId":"067e6162-3b6f-1ae2-a171-2470b63dff00","ISBN":"1111111111111","title":"Advanced Java","author":"Abebe","publisher":"kebebush pub","edition":"1st Edition","price":25.25,"imagePath":"resources/images/advancedJava.jpg","quantity":0}
+{"bookId":"067e6162-3b6f-2ae2-a171-2470b63dff00","ISBN":"22222222222222","title":"Html5","author":"Messi","publisher":"alemitu Pub","edition":"2nd Edition","price":50.5,"imagePath":"resources/images/html5.jpg","quantity":0}
+{"bookId":"067e6162-4b6f-4ae2-a171-2470b63dff00","ISBN":"33333333333","title":"Advanced cSharp","author":"Esunew","publisher":"demmelash pub","edition":"3rd Edition","price":25.25,"imagePath":"resources/images/cSharp.png","quantity":0}
+{"bookId":"067e6162-3b6f-4ae2-a171-2470b63dff00","ISBN":"444444444","title":"Html5","author":"lema","publisher":"Esubalew Pub","edition":"FirstEdition1","price":50.5,"imagePath":"resources/images/android.png","quantity":0}
+{"bookId":"067e6162-3b6f-4ae2-a171-2470b63dff00","ISBN":"55555555","title":"Android","author":"Almetam","publisher":"Alemu pub","edition":"FirstEdition1","price":50.5,"imagePath":"resources/images/android.png","quantity":0}
+{"bookId":"d193d3de-4522-4885-ab43-10cd8d0101d5","ISBN":"66666666","title":"python","author":"kaka","publisher":"abebe publishing","edition":"6th Edition","price":15.0,"imagePath":"resources/images/cSharp.png","quantity":0}
+{"bookId":"1555c091-5b6e-4b22-b3ff-61d6fcc2b5ab","ISBN":"7777777","title":"Algorithem","author":"Yeneneshe","publisher":"rahel publishing","edition":"7th","price":9.0,"imagePath":"resources/images/cSharp.png","quantity":0}
+{"bookId":"7a5420c6-9868-4e6c-b4fc-2a7b9c70595b","ISBN":"888888","title":"software","author":"aaaaa","publisher":"ppppppp","edition":"eeeeeeee","price":555555.0,"imagePath":"resources/images/cSharp.png","quantity":0}
+{"bookId":"9901b0bc-2074-4041-bed8-a6129f0898fd","ISBN":"99999999999999","title":"BBBBBBBBBBBBB","author":"AAAAAAAAAA","publisher":"PPPPPPPPPPP","edition":"EEEEEEEEEEEEEEE","price":77.0,"imagePath":"resources/images/cSharp.png","quantity":0}
